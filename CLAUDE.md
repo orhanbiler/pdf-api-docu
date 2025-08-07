@@ -3,8 +3,10 @@
 ## Project Overview
 This is the official documentation site for DocuAPI (docuapi.io), a SaaS platform that turns any fillable PDF into a REST API with AI-powered field mapping. Built with Docusaurus classic theme and TypeScript support.
 
-**Site URL**: https://docuapi.io  
-**Purpose**: Documentation-only site (no blog) for the DocuAPI SaaS platform
+**Live Site URL**: https://documentation.docuapi.io  
+**Main Site**: https://docuapi.io  
+**Purpose**: Documentation-only site (no blog) for the DocuAPI SaaS platform  
+**Deployment**: Vercel (with custom subdomain via GoDaddy DNS)
 
 ## Tech Stack
 - **Framework**: Docusaurus 3.8.1 (React-based documentation framework)

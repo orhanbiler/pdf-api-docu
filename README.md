@@ -8,7 +8,7 @@ This repository contains the documentation website for DocuAPI, built with [Docu
 
 ## 📚 Documentation
 
-Visit the live documentation at: [https://docuapi.io](https://docuapi.io)
+Visit the live documentation at: [https://documentation.docuapi.io](https://documentation.docuapi.io)
 
 ### Key Features Documented
 
