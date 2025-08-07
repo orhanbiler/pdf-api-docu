@@ -17,7 +17,7 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Getting Started',
+      label: 'Documentation',
       collapsible: false,
       items: ['getting-started'],
     },
